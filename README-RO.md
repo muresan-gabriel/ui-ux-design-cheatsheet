@@ -64,7 +64,7 @@
 
 ## Despre Proiect
 
-Acest repository repository a fost creat cu scopul de a te ajuta cu sfaturi sau resurse să creezi UI-uri fantastice.
+Acest repository a fost creat cu scopul de a te ajuta cu sfaturi sau resurse să creezi UI-uri fantastice.
 
 * Ca și programator, timpul tău ar trebui să fie dedicat către programare și învățare. Nu toți ne dorim să fim designeri, dar uneori trebuie să lucrăm și pe partea vizuală a proiectelor.
 * UI-ul (User Interface) nu reprezintă doar aspectul aplicației. UI-ul include UX-ul (User Experience). De fiecare dată când un utilizator interacționează cu aplicația ta, acesta ar trebui să fie deja comfortabil cu funcționalitățile ei și să știe ce face fiecare buton.
