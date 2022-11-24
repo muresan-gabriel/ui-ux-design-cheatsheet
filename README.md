@@ -117,7 +117,7 @@ Defining clusters of elements that are related to each other offers a solid stru
 
 __
 
-These are 5 principles which I think you can easily apply to your projects for fast and clear improvements to the UI. There are 12 principles in total, and if you'd like to learn more about them, I strongly recommend a Google search.
+These are 5 principles which I think you can easily apply to your projects for fast and clear improvements to the UI. There are 12 principles in total, and if you'd like to learn more about them, I strongly recommend to research the subject more in your free time.
 
 All of these principles are:
 
@@ -181,3 +181,43 @@ Either way, a good choice of serif fonts:
 
 * <a href="https://fonts.google.com/specimen/Libre+Baskerville">Libre Baskerville</a> - Fantastic serif, usually a very good choice for blog posts and article bodies, or simply used in display headings.
 * <a href="https://befonts.com/butler-font.html">Butler</a> - Very well crafted typeface for display and graphics.
+
+### Visuals
+
+Humans are lazy. All of us hate thinking too much when we try to achieve a simple thing. As a developer, you should ensure that your elements are easily recognizable. Offer users ways to understand instantly what they see.
+
+You can easily achieve this with icons. Add icons to your buttons to send a better message across. Even a small arrow makes the difference. Proceed with care, as over-using icons can also break your UI. Find balance and be consistent.
+
+If you know what you're doing and you planned ahead, make sure to use illustrations or other graphic elements. There are various platforms which offer free or cheap illustrations which can improve your landing or send a stronger message to the user. They're also pretty cool.
+
+### "This UI looks great" - Me, to myself, or you, to yourself
+
+Throughout experimenting with various designs and applications, I always get used to my UI. It looks good, but is it usable? Sometimes we need to let others test out what we build and ```*gasp*```, they'll tell us it's really bad. I tell friends or family to look over what I've done. Sometimes I provide them information, sometimes I just let them explore and see what they come up with. Many times I manage to observe thinks I didn't even think about.
+
+The best tester to your application is somebody who has never seen your application before. Ask your friends for feedback on your design. If possible, let them test out your application, see how's the UX for them. Tell them to break it as well, maybe you have some security issues or your code simply doesn't work the way you want it to.
+
+### Provide feedback to the user
+
+You might think it makes absolute sense for the page of articles of a user to be completely empty if they haven't posted any articles, right? No, it shouldn't. Make sure to add placeholder text to offer additional information as to what is going on. The page is empty? Explain why it's empty. 
+
+No search results? "Uh oh, couldn't find anything for ```How to become a god-like web developer and earn $160k / year```"
+
+__
+
+Sometimes the user just wants all the 905 records of available Pokémon, in one single page. Such a request is quite heavy and it will take a while until the client receives all of this data.
+
+Another form of feedback is when the user is waiting to receive or see something. If you have a very heavy operation in your application which takes a long time to load or execute, make sure to provide the user a feedback to know that the application didn't freeze or break. A loading icon should do the job. 
+
+### Anticipate mistakes
+
+Users are *almost* all the time humans. And humans make mistakes. 
+
+Make sure to prevent these mistakes before they happen. Disable the submit button while the user completes the form. As soon as they're done, enable it.
+
+But somtimes we simply cannot prevent all mistakes. Atleast anticipate them and provide the user feedback to know what's gone wrong.
+
+If they want to make their password ```verysecurepassword123```, tell them in an easy to understand way that you have configured the form validation to accept only passwords which are 12 characters long, must contain atleast a number, an uppercase character and a symbol.
+
+Display a container below the password field as an error which mentions all of the above.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
