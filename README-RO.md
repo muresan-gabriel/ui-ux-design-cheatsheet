@@ -21,7 +21,7 @@
     ·
     <a href="https://github.com/muresan-gabriel/ui-ux-design-cheatsheet/issues">Contribuie</a>
     ·
-    <a href="https://muresan-gabriel.github.io/ui-ux-design-cheatsheet/">Pagină Live</a>
+    <a href="https://muresan-gabriel.github.io/ui-ux-design-cheatsheet/">Pagină Live (Engleză)</a>
   </p>
 </div>
 
