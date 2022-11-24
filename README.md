@@ -15,9 +15,9 @@
     <a href="https://github.com/muresan-gabriel/ui-ux-design-cheatsheet"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/muresan-gabriel/ui-ux-design-cheatsheet">Report a Problem</a>
+    <a href="https://github.com/muresan-gabriel/ui-ux-design-cheatsheet/issues">Report a Problem</a>
     ·
-    <a href="https://github.com/muresan-gabriel/ui-ux-design-cheatsheet">Contribute</a>
+    <a href="https://github.com/muresan-gabriel/ui-ux-design-cheatsheet/issues">Contribute</a>
   </p>
 </div>
 
@@ -31,12 +31,30 @@
       <a href="#about-the-project">About The Project</a>
     </li>
     <li>
-      <a href="#about-the-project">Basic Design Principles</a>
+      <a href="#basic-design-principles">Basic Design Principles</a>
+      <ul>
+        <li>
+          <a href="#contrast">Contrast</a>
+        </li>
+        <li>
+          <a href="#proportion">Proportion</a>
+        </li>
+        <li>
+          <a href="#hierarchy">Hierarchy</a>
+        </li>
+        <li>
+          <a href="#white-space">White-Space</a>
+        </li>
+        <li>
+          <a href="#unity">Unity</a>
+        </li>
+      <ul>
     </li>
   </ol>
 </details>
 
 <!-- ABOUT THE PROJECT -->
+
 ## About The Project
 
 This repository was created with the purpose of assisting you with either tips or resources to create fantastic UIs.
@@ -63,3 +81,54 @@ Feel free to contribute with anything you think it's missing to help other devel
 
 <!-- BASIC DESIGN PRINCIPLES -->
 ## Basic Design Principles
+
+### Contrast
+
+Defined as the difference between elements within a design that makes them stand out from each other, contrast plays an important role in the visibility of each element. 
+
+You should (almost) never put a blue text on a slightly lighter blue background. It affects the text's readability. 
+
+Of course, you could bring the color of text closer to the background color to suggest that the text is secondary, informational and doesn't play a very important role in transmitting a message, but even it this situation, it should still be visible and readable for the user.
+
+### Proportion
+
+Refers to the size of the elements in relation to each other. Proportion and scale are important in hierarchy as well, as larger elements tend to appear more important.
+
+Use proportion and scale in your advantage and define important elements, such as CTAs (Call to Actions) using scale, color, or shape.
+
+### Hierarchy
+
+We place elements accordingly based on levels of importance. You should also provide a visual solutions to this. A simple example would be making the title large (24px) in contrast to the paragraph of text (12px).
+
+### White-Space
+
+White-space is an important element in most designs. We can define empty spaces on a page on each side, left and right, and keep all the content in the center. For a blog post, this would allow the user to focus on the text, the most important element of an article, and it could be a solution to shorter lines of text, which are easier to follow.
+
+For example, it's easier to read lines that are 8-12 words in length. We can easily follow to the next line and keep track of where we are in the article. It's harder to read text which has lines that are, for example, 24-28 words in length.
+
+White space can also be a good separator between elements or clusters of elements (see <a href="#unity">Unity</a>).
+
+### Unity
+
+Defining clusters of elements that are related to each other offers a solid structure to your interface. For example, you should always stick all important elements related to navigation to the navbar / header menu, or, usually, you would keep the Login / Sign Up buttons together, not spread apart from each other.
+
+__
+
+These are 5 principles which I think you can easily apply to your projects for fast and clear improvements to the UI. There are 12 principles in total, and if you'd like to learn more about them, I strongly recommend a Google search.
+
+All of these principles are:
+
+1. Contrast
+2. Balance
+3. Emphasis
+4. Proportion
+5. Hierarchy
+6. Repetition
+7. Rhythm
+8. Pattern
+9. White space
+10. Movement
+11. Variety
+12. Unity
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
