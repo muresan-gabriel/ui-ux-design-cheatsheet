@@ -1,4 +1,14 @@
 <a name="readme-top"></a>
+<style>
+  path {
+    fill: #000;
+  }
+  @media (prefers-color-scheme: dark) {
+    path {
+      fill: #fff;
+    }
+  }
+</style>
 
 <!-- PROJECT LOGO -->
 <br />
