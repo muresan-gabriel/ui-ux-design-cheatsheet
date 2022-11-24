@@ -15,6 +15,7 @@
     <a href="https://github.com/muresan-gabriel/ui-ux-design-cheatsheet"><strong>Explorează documentația »</strong></a>
     <br />
     <br />
+    <a href="https://github.com/muresan-gabriel/ui-ux-design-cheatsheet/">Engleză</a>
     <a href="https://github.com/muresan-gabriel/ui-ux-design-cheatsheet/issues">Raportează o Problemă</a>
     ·
     <a href="https://github.com/muresan-gabriel/ui-ux-design-cheatsheet/issues">Contribuie</a>
@@ -137,7 +138,7 @@ Toate aceste principii sunt:
 <p align="right">(<a href="#readme-top">înapoi la început</a>)</p>
 
 <!-- GENERAL TIPS & TRICKS -->
-## Sfaturi generale
+## Sfaturi Generale
 
 ### Păstrează lucrurile simple și consistente
 
