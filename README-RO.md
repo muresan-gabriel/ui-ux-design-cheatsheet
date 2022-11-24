@@ -16,6 +16,7 @@
     <br />
     <br />
     <a href="https://github.com/muresan-gabriel/ui-ux-design-cheatsheet/">Engleză</a>
+    ·
     <a href="https://github.com/muresan-gabriel/ui-ux-design-cheatsheet/issues">Raportează o Problemă</a>
     ·
     <a href="https://github.com/muresan-gabriel/ui-ux-design-cheatsheet/issues">Contribuie</a>
