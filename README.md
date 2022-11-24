@@ -15,6 +15,8 @@
     <a href="https://github.com/muresan-gabriel/ui-ux-design-cheatsheet"><strong>Explore the docs »</strong></a>
     <br />
     <br />
+    <a href="https://github.com/muresan-gabriel/ui-ux-design-cheatsheet/blob/main/README-RO.md">Romanian</a>
+    ·
     <a href="https://github.com/muresan-gabriel/ui-ux-design-cheatsheet/issues">Report a Problem</a>
     ·
     <a href="https://github.com/muresan-gabriel/ui-ux-design-cheatsheet/issues">Contribute</a>

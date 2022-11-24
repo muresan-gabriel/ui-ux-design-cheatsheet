@@ -15,6 +15,8 @@
     <a href="https://github.com/muresan-gabriel/ui-ux-design-cheatsheet"><strong>Explorează documentația »</strong></a>
     <br />
     <br />
+    <a href="https://github.com/muresan-gabriel/ui-ux-design-cheatsheet/">Engleză</a>
+    ·
     <a href="https://github.com/muresan-gabriel/ui-ux-design-cheatsheet/issues">Raportează o Problemă</a>
     ·
     <a href="https://github.com/muresan-gabriel/ui-ux-design-cheatsheet/issues">Contribuie</a>
@@ -137,7 +139,7 @@ Toate aceste principii sunt:
 <p align="right">(<a href="#readme-top">înapoi la început</a>)</p>
 
 <!-- GENERAL TIPS & TRICKS -->
-## Sfaturi generale
+## Sfaturi Generale
 
 ### Păstrează lucrurile simple și consistente
 
@@ -219,4 +221,4 @@ Dacă ei vor ca parola lor să fie ```parolafoartesigura123```, spune-le într-o
 
 Afișează un container, sub câmpul de parolă, o eroare care menționează cele de mai sus.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">înapoi la început</a>)</p>
