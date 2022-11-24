@@ -20,6 +20,8 @@
     <a href="https://github.com/muresan-gabriel/ui-ux-design-cheatsheet/issues">Raportează o Problemă</a>
     ·
     <a href="https://github.com/muresan-gabriel/ui-ux-design-cheatsheet/issues">Contribuie</a>
+    ·
+    <a href="https://muresan-gabriel.github.io/ui-ux-design-cheatsheet/">Pagină Live</a>
   </p>
 </div>
 
