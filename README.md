@@ -4,7 +4,7 @@
 <br />
 <div align="center">
   <a href="#">
-    <img src="#" alt="Logo" width="80" height="80">
+    <img src="img/ui-ux-banner.png" alt="Banner" width="1015" height="115">
   </a>
 
   <h3 align="center">UI / UX Design Cheatsheet</h3>
@@ -48,7 +48,10 @@
         <li>
           <a href="#unity">Unity</a>
         </li>
-      <ul>
+      </ul>
+    </li>
+    <li>
+      <a href="#general-tips">General Tips</a>
     </li>
   </ol>
 </details>
@@ -134,7 +137,7 @@ All of these principles are:
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GENERAL TIPS & TRICKS -->
-## General Tips & Tricks for UI/UX
+## General Tips
 
 ### Keep things simple and consistent
 
