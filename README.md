@@ -143,7 +143,7 @@ All of these principles are:
 
 This is one of the most important tip I can provide. Be consistent throughout your entire application. This refers to colors, fonts, sizes, shapes and more.
 
-Create a default look and feel for your application.
+### Create a default look and feel for your application
 
 * Choose a background color and stick to it.
 * Choose a font-size for each element you think you'll have on your page, but limit yourself to a handful of different elements. Paragraphs of text should have a size of ```16px```. Apply these font-sizes consistently to your elements.
