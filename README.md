@@ -4,7 +4,7 @@
 <br />
 <div align="center">
   <a href="#">
-    <img src="img/ui-ux-banner.png" alt="Banner" width="849" height="115">
+    <img src="img/ui-ux-banner.png" alt="Banner" width="272" height="37">
   </a>
 
   <h3 align="center">UI / UX Design Cheatsheet</h3>
