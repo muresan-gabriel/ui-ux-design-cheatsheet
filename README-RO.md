@@ -219,4 +219,4 @@ Dacă ei vor ca parola lor să fie ```parolafoartesigura123```, spune-le într-o
 
 Afișează un container, sub câmpul de parolă, o eroare care menționează cele de mai sus.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">înapoi la început</a>)</p>
