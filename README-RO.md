@@ -57,6 +57,9 @@
     <li>
       <a href="#sfaturi-generale">Sfaturi Generale</a>
     </li>
+    <li>
+      <a href="#resurse">Resurse</a>
+    </li>
   </ol>
 </details>
 
@@ -224,3 +227,40 @@ Dacă ei vor ca parola lor să fie ```parolafoartesigura123```, spune-le într-o
 Afișează un container, sub câmpul de parolă, o eroare care menționează cele de mai sus.
 
 <p align="right">(<a href="#readme-top">înapoi la început</a>)</p>
+
+
+<!-- RESOURCES -->
+## Resurse
+
+### Font-uri
+
+Majoritatea acestor website-uri oferă font-uri gratuit, dar unele oferă grosimi limitate ale familiei sau o mare majoritate a lor trebuie plătită. O să te las să explorezi, dar o să adaug mențiuni, alături de fiecare website, dacă font-urile trebuie plătite.
+
+* <a href="https://fonts.google.com/">Google Fonts</a> ```Open-Source```
+  * Font-uri open-source
+  * Unelte foarte bune ca să implementezi font-urile în proiectele tale
+  * Knowledge cu informații adiționale
+* <a href="https://www.fontfabric.com/free-fonts/">FontFabric</a> ```Font-uri plătite, dar unele sunt gratuite cu limitări```
+  * Oferă font-uri foarte bine realizate și proiectate
+  * Au o categorie de Font-uri Gratuite și afișează familiile de font-uri care sunt gratuite până într-un anumit punct
+  
+### Icoane
+
+Există diferite modalități de a implementa aceste librării în proiectele tale. Verifică documentația librăriei pe care dorești să o utilizezi.
+
+* <a href="https://heroicons.com/">heroicons</a> - ```Open-Source```
+  * Elemente ```SVG``` / ```JSX``` ușor de copiat
+  * Poate fi instalată utilizând ```npm```, fantastic pentru ```React``` / ```Vue```
+  * Fișier Figma disponibil ca să începi să realizezi mock-up-uri sau prototipuri utilizând aceste icoane
+  * Creat de echipa ```Tailwind CSS```
+* <a href="https://fontawesome.com/">FontAwesome</a> - ```Pachet Individual Gratuit```
+  * 2000+ Icoane gratuite
+  * Ușor de implementat în proiectele tale
+* <a href="https://fonts.google.com/icons">Google Fonts - Icons</a> - ```Open-Source```
+  * Exact ca font-urile, Google oferă unelte foarte bune de personalizare și implementare
+  * Oferă instrucțiuni detaliate pentru programatori
+  * Un plugin Figma poate fi utilizat pentru prototipare
+* <a href="https://icons.getbootstrap.com/">Bootstrap Icons</a> - ```Open-Source```
+  * Ușor de instalat și implementat
+  * Librărie Figma disponibilă
+  * Foarte puternică alături de framework-ul Bootstrap
