@@ -225,3 +225,39 @@ If they want to make their password ```verysecurepassword123```, tell them in an
 Display a container below the password field as an error which mentions all of the above.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- RESOURCES -->
+## Resources
+
+### Fonts
+
+Most of these websites provide fonts for free, but some of them offer limited weights of the family or a large majority are paid. I will let you explore, but will leave a mention to each website if the fonts are paid.
+
+* <a href="https://fonts.google.com/">Google Fonts</a> ```Open-Source```
+  * Open-source fonts
+  * Fantastic tools to easily implement fonts in your projects
+  * Knowledge with additional information
+* <a href="https://www.fontfabric.com/free-fonts/">FontFabric</a> ```Paid fonts, but some are free with limitations```
+  * They offer very well crafted fonts
+  * They have a Free Fonts category and list out families which are free to a certain extent
+  
+### Icons
+
+There are various ways of implementing all of these libraries of fonts in your projects. Make sure to take a look at the documentation of the library you'd like to use.
+
+* <a href="https://heroicons.com/">heroicons</a> - ```Open-Source```
+  * Easy to copy to clipboard ```SVG``` / ```JSX```
+  * Can also be installed via ```npm```, fantastic for ```React``` / ```Vue```
+  * Figma file available to easily start out designing mock-ups or prototyping using these icons
+  * Created by the team @ ```Tailwind CSS```
+* <a href="https://fontawesome.com/">FontAwesome</a> - ```Free for Individuals```
+  * 2000+ Free Icons to choose from
+  * Easy to implement in any projects
+* <a href="https://fonts.google.com/icons">Google Fonts - Icons</a> - ```Open-Source```
+  * Just like fonts, they offer great tools for customization and implementation
+  * They offer guidelines to developers
+  * A Figma plugin can be used for prototyping
+* <a href="https://icons.getbootstrap.com/">Bootstrap Icons</a> - ```Open-Source```
+  * Easy to install and implement
+  * Figma library
+  * Very powerful together with the Bootstrap framework
