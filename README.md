@@ -57,6 +57,9 @@
     <li>
       <a href="#general-tips">General Tips</a>
     </li>
+    <li>
+      <a href="#resources">Resources</a>
+    </li>
   </ol>
 </details>
 
